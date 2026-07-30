@@ -19,14 +19,7 @@
     <td>
       <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArbStray&layout=compact&theme=blue&hide_border=true&langs_count=8" />
     </td>
-    <td>
-      ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArbStray)
-    </td>
+
   </tr>
 </table>
-
----
-
-<p align="center">
-  <i>🧠 Deep Learning · Operator Optimization · Performance Acceleration</i>
-</p>
+ ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArbStray)

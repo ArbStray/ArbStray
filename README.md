@@ -12,15 +12,15 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArbStray)
+
 
 <table align="center">
   <tr>
     <td>
-      <img height="180" src="https://github-stats-extended.vercel.app/api?username=ArbStray&show_icons=true&theme=blue&hide_border=true&include_all_commits=true" />
+      <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArbStray&layout=compact&theme=blue&hide_border=true&langs_count=8" />
     </td>
     <td>
-      <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArbStray&layout=compact&theme=blue&hide_border=true&langs_count=8" />
+      ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArbStray)
     </td>
   </tr>
 </table>

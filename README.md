@@ -5,11 +5,6 @@
 <a href="https://arbstray.github.io/">
   <img src="https://img.shields.io/badge/Blog-arbstray.github.io-4A90D9?style=flat-square&logo=github&logoColor=white" />
 </a>
-
-<h3>
- 技术栈 | Tech Stack
-</h3>
-
 </div>
 
 <p align="center">

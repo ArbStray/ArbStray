@@ -1,15 +1,4 @@
-<div align="center">
-
-# 👋 Hi there, I'm ArbStray
-
-<a href="https://arbstray.github.io/">
-  <img src="https://img.shields.io/badge/✍️_Blog-arbstray.github.io-4A90D9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
+👋 Hi there, I'm ArbStray
 ### 🛠️ Skills & Technologies
 
 <p align="center">
